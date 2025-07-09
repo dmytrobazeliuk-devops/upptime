@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://www.google.com1
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com11
+    url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co11
+    url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
