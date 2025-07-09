@@ -8,9 +8,9 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com11
+    url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co11
+    url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
