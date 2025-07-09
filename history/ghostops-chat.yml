@@ -1,7 +1,7 @@
 url: https://ghostops.chat
-status: up
-code: 200
-responseTime: 9166
-lastUpdated: 2025-07-09T14:22:32.450Z
+status: down
+code: 503
+responseTime: 500
+lastUpdated: 2025-07-09T14:37:56.613Z
 startTime: 2025-07-09T08:46:54.762Z
 generator: Upptime <https://github.com/upptime/upptime>
