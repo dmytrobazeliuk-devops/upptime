@@ -1,32 +1,208 @@
-# Change these first
-owner: dmytrobazeliuk-devops # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+geoowner: upptime
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: 2mind.us
+    url: https://2mind.us
+  - name: broomesignco.com
+    url: https://broomesignco.com
+  - name: charlottelogos.com
+    url: https://charlottelogos.com
+  - name: deadlinesigns.com
+    url: https://deadlinesigns.com
+  - name: dentprodigy.com
+    url: https://dentprodigy.com
+  - name: dev.file.supply
+    url: https://dev.file.supply
+  - name: email.dosminds.com
+    url: https://email.dosminds.com
+  - name: file.supply
+    url: https://file.supply
+  - name: landing.twominds.company
+    url: https://landing.twominds.company
+  - name: onedrive.twominds.company
+    url: https://onedrive.twominds.company
+  - name: reseller.deadlinesigns.com
+    url: https://reseller.deadlinesigns.com
+  - name: speedlight.biz
+    url: https://speedlight.biz
+  - name: twominds.company
+    url: https://twominds.company
+  - name: twomindsgroup.com
+    url: https://twomindsgroup.com
+  - name: wefixyoursite.com
+    url: https://wefixyoursite.com
+  - name: yardcardprinter.com
+    url: https://yardcardprinter.com
+  - name: yl.deadlinesigns.com
+    url: https://yl.deadlinesigns.com
+  - name: blog.it-srv.org
+    url: https://blog.it-srv.org
+  - name: c-welltech.com
+    url: https://c-welltech.com
+  - name: finhyve.com
+    url: https://finhyve.com
+  - name: freelancer.pp.ua
+    url: https://freelancer.pp.ua
+  - name: geovibor.com
+    url: https://geovibor.com
+  - name: geomagazin.in.ua
+    url: https://geomagazin.in.ua
+  - name: ghostops.chat
+    url: https://ghostops.chat
+  - name: greenwallet.me
+    url: https://greenwallet.me
+  - name: infotech-business-solutions.com
+    url: https://infotech-business-solutions.com
+  - name: insuranca.me
+    url: https://insuranca.me
+  - name: obest-hk.com
+    url: https://obest-hk.com
+  - name: office2home.io
+    url: https://office2home.io
+  - name: privpay.app
+    url: https://privpay.app
+  - name: realswap.app
+    url: https://realswap.app
+  - name: rosebo.com
+    url: https://rosebo.com
+  - name: stopphishing.us
+    url: https://stopphishing.us
+  - name: storeloyalty.ai
+    url: https://storeloyalty.ai
+  - name: storesafety.app
+    url: https://storesafety.app
+  - name: thecruncher.io
+    url: https://thecruncher.io
+  - name: ushare.social
+    url: https://ushare.social
+  - name: wagewings.ai
+    url: https://wagewings.ai
+  - name: welove.tips
+    url: https://welove.tips
+  - name: weprevent.net
+    url: https://weprevent.net
+  - name: wingwage.com
+    url: https://wingwage.com
+  - name: api.api.x-sensor.network
+    url: https://api.api.x-sensor.network
+  - name: api.x-sensor.network
+    url: https://api.x-sensor.network
+  - name: birdi.ai
+    url: https://birdi.ai
+  - name: dehyper.com
+    url: https://dehyper.com
+  - name: dev.x-sensor.net
+    url: https://dev.x-sensor.net
+  - name: early-profits.com
+    url: https://early-profits.com
+  - name: eviguard.app
+    url: https://eviguard.app
+  - name: extreme-smartphone.com
+    url: https://extreme-smartphone.com
+  - name: Flodder.nl
+    url: https://flodder.nl
+  - name: hacked.nl
+    url: https://hacked.nl
+  - name: jayjay-izaak.com
+    url: https://jayjay-izaak.com
+  - name: landfighter.eu
+    url: https://landfighter.eu
+  - name: mailxsurvey.com
+    url: https://mailxsurvey.com
+  - name: meyersmediagroup.com
+    url: https://meyersmediagroup.com
+  - name: meyersmediagroup.eu
+    url: https://meyersmediagroup.eu
+  - name: new.x-systems.com
+    url: https://new.x-systems.com
+  - name: nextwave.tools
+    url: https://nextwave.tools
+  - name: ochama.io
+    url: https://ochama.io
+  - name: secure-os.com
+    url: https://secure-os.com
+  - name: secureteaming.com
+    url: https://secureteaming.com
+  - name: sendy.x-systems.com
+    url: https://sendy.x-systems.com
+  - name: Sensor4More.com
+    url: https://sensor4more.com
+  - name: suitecrm.x-systems.com
+    url: https://suitecrm.x-systems.com
+  - name: tester.x-surveillance.com
+    url: https://tester.x-surveillance.com
+  - name: tradeparc.com
+    url: https://tradeparc.com
+  - name: twominds.company
+    url: https://twominds.company
+  - name: twomindsgroup.com
+    url: https://twomindsgroup.com
+  - name: wefixyoursite.com
+    url: https://wefixyoursite.com
+  - name: web.x-surveillance.com
+    url: https://web.x-surveillance.com
+  - name: web.x-systems.com
+    url: https://web.x-systems.com
+  - name: x-alert.com
+    url: https://x-alert.com
+  - name: x-alert.eu
+    url: https://x-alert.eu
+  - name: x-alert.support
+    url: https://x-alert.support
+  - name: x-aware.com
+    url: https://x-aware.com
+  - name: x-enterprise.eu
+    url: https://x-enterprise.eu
+  - name: x-enterprise.org
+    url: https://x-enterprise.org
+  - name: x-platform.io
+    url: https://x-platform.io
+  - name: x-protected.com
+    url: https://x-protected.com
+  - name: x-secure.systems
+    url: https://x-secure.systems
+  - name: x-sensor.net
+    url: https://x-sensor.net
+  - name: x-sensor.network
+    url: https://x-sensor.network
+  - name: x-sensor.support
+    url: https://x-sensor.support
+  - name: x-support.online
+    url: https://x-support.online
+  - name: x-surveillance.com
+    url: https://x-surveillance.com
+  - name: x-syst.eu
+    url: https://x-syst.eu
+  - name: x-systems.com
+    url: https://x-systems.com
+  - name: x-systems.net
+    url: https://x-systems.net
+  - name: xmapsystems.com
+    url: https://xmapsystems.com
+  - name: xsystems-store.com
+    url: https://xsystems-store.com
+  - name: live.x-alert.network
+    url: https://live.x-alert.network/
+  - name: dashboard.x-platform.network
+    url: https://dashboard.x-platform.network/
+  - name: webmail.x-systems.com
+    url: https://webmail.x-systems.com/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # Якщо у тебе немає свого домену для статус-сторінки — закоментуй cname і залиш baseUrl:
+  # cname: status.yourdomain.com
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime Monitor
+  introTitle: "**Uptime Monitor**"
+  introMessage: >
+    Це ваша сторінка статусу. Дані оновлюються **автоматично** через GitHub Actions.
+    [GitHub репозиторій](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/upptime/upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+schedule: "* * * * *"

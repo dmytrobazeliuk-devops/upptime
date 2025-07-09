@@ -1,0 +1,23 @@
+name: SSL Expiry Checker
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'    # Щопонеділка о 07:00 UTC
+  workflow_dispatch:
+
+jobs:
+  ssl-expiry:
+    runs-on: ubuntu-latest
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download SnakeYAML
+        run: wget https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar
+
+      - name: Run SSL expiry check
+        run: |
+          javac -cp snakeyaml-2.2.jar SslExpiryCheck.java
+          java -cp .:snakeyaml-2.2.jar SslExpiryCheck
