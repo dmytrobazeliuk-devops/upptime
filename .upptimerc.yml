@@ -8,14 +8,10 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://news.ycombinator.com11
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://thissitedoesnotexist.koj.co11
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
