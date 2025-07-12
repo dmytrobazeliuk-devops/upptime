@@ -128,8 +128,6 @@ sites:
     url: https://sensor4more.com
   - name: suitecrm.x-systems.com
     url: https://suitecrm.x-systems.com
-  - name: tester.x-surveillance.com
-    url: https://tester.x-surveillance.com
   - name: tradeparc.com
     url: https://tradeparc.com
   - name: twominds.company
@@ -140,12 +138,8 @@ sites:
     url: https://wefixyoursite.com
   - name: web.x-surveillance.com
     url: https://web.x-surveillance.com
-  - name: web.x-systems.com
-    url: https://web.x-systems.com
   - name: x-alert.com
     url: https://x-alert.com
-  - name: x-alert.eu
-    url: https://x-alert.eu
   - name: x-alert.support
     url: https://x-alert.support
   - name: x-aware.com
