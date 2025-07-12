@@ -86,10 +86,6 @@ sites:
     url: https://weprevent.net
   - name: wingwage.com
     url: https://wingwage.com
-  - name: api.api.x-sensor.network
-    url: https://api.api.x-sensor.network
-  - name: api.x-sensor.network
-    url: https://api.x-sensor.network
   - name: birdi.ai
     url: https://birdi.ai
   - name: dehyper.com
